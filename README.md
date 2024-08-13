@@ -6,7 +6,7 @@ Logistic regression is particularly well-suited for binary classification proble
 
 🔧 Project Highlights:
 
-Data Collection: I used a dataset containing historical transaction data labeled as fraudulent or non-fraudulent.
+Data Collection: I used a dataset containing historical transaction data labeled as fraudulent or non-fraudulent,the dataset was provided by kaggle https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud.
 Feature Engineering: I carefully selected features that were most indicative of fraudulent behavior.
 Model Training: The logistic regression model was trained and tested, achieving an accuracy of 91.23% on the training data and 90.86% on the test data.
 Prediction & Validation: The model was then tested on new transactions to identify and flag potential fraud, with promising results.
